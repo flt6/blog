@@ -1,0 +1,4 @@
+digraph{
+    node[fontcolor=blue]
+    a[shape=box3d]
+}

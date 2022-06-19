@@ -1,0 +1,7 @@
+digraph G {
+    subgraph { 
+        node[fontcolor=blue]
+        A; B; C; 
+        D -> E
+    } 
+}
