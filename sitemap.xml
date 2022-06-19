@@ -137,20 +137,6 @@
 
   
   <url>
-    <loc>https://flt.vercel.app/tags/%E6%9D%82%E8%AE%BA/</loc>
-    <lastmod>2022-06-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://flt.vercel.app/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://flt.vercel.app/tags/AE-note/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
@@ -165,14 +151,14 @@
   </url>
   
   <url>
-    <loc>https://flt.vercel.app/tags/python/</loc>
+    <loc>https://flt.vercel.app/tags/%E6%9D%82%E8%AE%BA/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://flt.vercel.app/tags/idea/</loc>
+    <loc>https://flt.vercel.app/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -187,6 +173,20 @@
   
   <url>
     <loc>https://flt.vercel.app/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://flt.vercel.app/tags/python/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://flt.vercel.app/tags/idea/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -209,6 +209,13 @@
 
   
   <url>
+    <loc>https://flt.vercel.app/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://flt.vercel.app/categories/%E6%9D%82%E8%AE%BA-%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
@@ -217,13 +224,6 @@
   
   <url>
     <loc>https://flt.vercel.app/categories/programe/</loc>
-    <lastmod>2022-06-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://flt.vercel.app/categories/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
