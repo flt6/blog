@@ -1,0 +1,153 @@
+[General]
+language=zh_CN
+
+[DICT]
+WikiConfig0=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\0\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig1=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x1\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig2=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x2\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig3=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x3\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig4=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x4\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig5=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x5\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig6=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\x6\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig7=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\a\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig8=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\b\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+WikiConfig9=@Variant(\0\0\0\b\0\0\0\x2\0\0\0\n\0i\0n\0\x64\0\x65\0x\0\0\0\x2\0\0\0\t\0\0\0\f\0\x65\0n\0\x61\0\x62\0l\0\x65\0\0\0\x2\0\0\0\x1)
+SelectLibGroupId=-999
+LastImportFolder=E:/__easyHelper__/牛津高阶英汉8
+ExpandDictSections=true
+LastTranlateEngine1=1
+ColorStyle=default
+ShowCategoryOnAddStudy=false
+MaxHistoryCount=100
+EnableThumbnailDict=true
+ShowPhon=true
+PreferOnlineDict=true
+DoubleJump=true
+InstantSearch=false
+AutoAddStudyList=false
+SearchClipboardOnStart=false
+FontSizeDict2=5
+HighLightColorIndex=0
+
+[COMMON]
+AppFirstOpenTime=1650267146
+AppLaunchTimes=56
+TotalSearchCount=15
+SyncUserName=风不吹
+SyncUserId=32d43558-be0f-11ec-bb30-00505686aece
+SyncToken="Kf2K7NPxUs8sHbA8Vyj/nKOfSHY="
+UserNickName=风不吹
+UserEmail=
+UserLoginType=weixin
+LastSyncTime=2022/05/16 22:19:58
+CopyInstalledDict=false
+InstallMain=true
+InstallMouse=true
+ShowBalloonHint=true
+ShowComExpList=true
+UseProxy=false
+ProxyAddress=
+ProxyPort=
+ProxyUser=
+ProxyPass=
+AutoCheckUpdate=true
+AutoSync=true
+ShortCut_ActiveMain1=F9
+ShortCut_Speak1=Ctrl+F12
+ShortCut_AddStudy1=Ctrl+Shift+A
+ShortCut_ToggleCapture1=Alt+F1
+ShortCut_ToggleSelection=Alt+F2
+ShortCut_GrabWord1=F7
+ShowHideMiniWindow=Ctrl+M
+ShortCut_SnipCapture=Ctrl+F2
+
+[CAPTURE]
+CaptureWndSnap=false
+CaptureWndTop=342
+CaptureWndLeft=611
+CaptureWndWidth=248
+AutoCapture=true
+CapAutoAddStudyList=false
+DELAY=500
+WestenOnly=true
+ShowSimilarWord=true
+OnlyReturnFirstExp=true
+OCR=true
+HighlightCapture=false
+AutoCap_Ctrl=true
+AutoCap_Shift=false
+AutoCap_Alt=false
+CaptureWndTransparent=false
+MouseMode=0
+CaptureShowExpOnGrab=false
+ClipboardChange=false
+ClipboardCaptureCtrlCC=true
+FontSizeCapture1=6
+CaptureWndHeight=233
+
+[FORM]
+geometry="@ByteArray(\x1\xd9\xd0\xcb\0\x2\0\0\xff\xff\xff\xf7\xff\xff\xff\xf7\0\0\a\x88\0\0\x4\xe\0\0\0\xf\0\0\0,\0\0\x3\"\0\0\x2v\0\0\0\0\x2\0\0\0\a\x80)"
+savestate=@ByteArray(\0\0\0\xff\0\0\0\0\xfd\0\0\0\0\0\0\a\x80\0\0\x3\x8b\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x1\0\0\0\x2\0\0\0\x1\xff\xff\xff\xff\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0)
+maximized=true
+FORM\screenNumber=0
+splitter_left=540
+splitter_right=1379
+pos=@Point(28 254)
+size=@Size(640 480)
+CbSearchHistory0=VT
+ReciteFormBound="308,24,1243,867"
+studyeditor_geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x2\0\0\0\0\x2)\0\0\x1\x1b\0\0\x5\x66\0\0\x3\x17\0\0\x2\x32\0\0\x1\x41\0\0\x5]\0\0\x3\xe\0\0\0\0\0\0\0\0\a\x80)
+MiniSearchShowOnStartUp=false
+MiniSearchTransparentLevel=40
+MiniSearchFormBound="1019,33,1330,332"
+MiniSearchLock=false
+CbSearchHistory1=record
+CbSearchHistory2=through trial and error
+CbSearchHistory3=fight against
+CbSearchHistory4=fight aginst
+CbSearchHistory5=be patient with
+CbSearchHistory6=br patient with
+DailyInfo=true
+DisableDPI=false
+StartWithWindows=false
+StartMin=false
+CloseIsMin=false
+CbSearchHistory7=dictionary
+CbSearchHistory8=mental
+CbSearchHistory9=flexibility
+CbSearchHistory10=engage
+CbSearchHistory11=聘请
+CbSearchHistory12=enlist
+CbSearchHistory13=recruit
+CbSearchHistory14=conscribe
+CbSearchHistory15=招募
+CbSearchHistory16=ethnic minorities
+CbSearchHistory17=definite
+CbSearchHistory18=desire
+CbSearchHistory19=desire to
+CbSearchHistory20=recommand
+
+[FORM_MNG]
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x2\0\0\xff\xff\xff\xf7\xff\xff\xff\xf7\0\0\a\x88\0\0\x4\xe\0\0\x4\xc6\0\0\0\xea\0\0\b\xeb\0\0\x3\xc4\0\0\0\0\x2\0\0\0\a\x80)
+savestate=@ByteArray(\0\0\0\xff\0\0\0\0\xfd\0\0\0\0\0\0\a\x80\0\0\x3\x9e\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x1\0\0\0\x2\0\0\0\x1\xff\xff\xff\xff\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0)
+splitter=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\x14\0\0\0P\0\x1\xff\xff\xff\xff\x1\0\0\0\x1\0)
+SORT_COLUMN=6
+SORT_ASCENDING=false
+
+[FORM_SETTING]
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x2\0\0\0\0\x3 \0\0\x1T\0\0\x6`\0\0\x4\xe\0\0\x3)\0\0\x1z\0\0\x6W\0\0\x4\x5\0\0\0\0\0\0\0\0\a\x80)
+maximized=false
+pos=@Point(640 272)
+size=@Size(652 521)
+
+[SPEECH]
+TTSID=HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\Tokens\\TTS_MS_ZH-CN_HUIHUI_11.0
+Rate=0
+Volume=50
+AutoSpeak=false
+AutoSpeakMouse=false
+
+[TRANSLATION]
+OrgLangSelect=0
+DestLangSelect=0
+OrgText="Extension activation failed, run the 'Developer: Toggle Developer Tools' command for more information."
